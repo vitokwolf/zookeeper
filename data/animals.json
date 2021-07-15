@@ -117,6 +117,15 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "laura",
+      "species": "snake",
+      "diet": "folivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
